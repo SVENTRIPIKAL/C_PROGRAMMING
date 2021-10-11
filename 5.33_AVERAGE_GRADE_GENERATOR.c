@@ -1,4 +1,4 @@
-/* Midterm: midTerm.c */
+/* AVERAGE GRADE GENERATOR */
 
 #include <stdio.h>
 #include <stdlib.h>
