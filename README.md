@@ -1,2 +1,2 @@
 # C PROGRAMMING
-My personal solutions to C lab assignments and challenges.
+C programming lab assignments and challenges.
